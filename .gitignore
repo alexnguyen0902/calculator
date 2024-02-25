@@ -1,4 +1,4 @@
 .vs
 bin
-Debug
+*/**/obj/Debug
 obj
