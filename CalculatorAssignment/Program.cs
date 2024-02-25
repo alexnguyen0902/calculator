@@ -60,7 +60,7 @@ namespace Program
 
         static void Minus(double num1, double num2)
         {
-            Console.WriteLine("Result:s ");
+            Console.WriteLine("Result: ");
             Console.WriteLine(num1 - num2);
             Console.WriteLine("Replay? (Y/N)");
             char replayQuestion = Convert.ToChar(Console.ReadLine());
