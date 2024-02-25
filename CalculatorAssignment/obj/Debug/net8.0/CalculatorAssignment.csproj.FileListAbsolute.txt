@@ -1,0 +1,29 @@
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.AssemblyInfo.cs
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.exe
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.deps.json
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.runtimeconfig.json
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.dll
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.pdb
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.dll
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\net8.0\refint\CalculatorAssignment.dll
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.pdb
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.genruntimeconfig.cache
+C:\Users\peter\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\net8.0\ref\CalculatorAssignment.dll
+D:\C# Projects\calculator\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.exe
+D:\C# Projects\calculator\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.deps.json
+D:\C# Projects\calculator\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.runtimeconfig.json
+D:\C# Projects\calculator\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.dll
+D:\C# Projects\calculator\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.pdb
+D:\C# Projects\calculator\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\calculator\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.AssemblyInfoInputs.cache
+D:\C# Projects\calculator\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.AssemblyInfo.cs
+D:\C# Projects\calculator\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.csproj.CoreCompileInputs.cache
+D:\C# Projects\calculator\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.sourcelink.json
+D:\C# Projects\calculator\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.dll
+D:\C# Projects\calculator\CalculatorAssignment\obj\Debug\net8.0\refint\CalculatorAssignment.dll
+D:\C# Projects\calculator\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.pdb
+D:\C# Projects\calculator\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.genruntimeconfig.cache
+D:\C# Projects\calculator\CalculatorAssignment\obj\Debug\net8.0\ref\CalculatorAssignment.dll
