@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\CalculatorAssignment\\CalculatorAssignment\\CalculatorAssignment.csproj",
+      "projectUniqueName": "D:\\C# Projects\\calculator\\CalculatorAssignment\\CalculatorAssignment.csproj",
       "projectName": "CalculatorAssignment",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\CalculatorAssignment\\CalculatorAssignment\\CalculatorAssignment.csproj",
+      "projectPath": "D:\\C# Projects\\calculator\\CalculatorAssignment\\CalculatorAssignment.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\CalculatorAssignment\\CalculatorAssignment\\obj\\",
+      "outputPath": "D:\\C# Projects\\calculator\\CalculatorAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

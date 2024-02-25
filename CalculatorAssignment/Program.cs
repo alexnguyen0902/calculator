@@ -78,7 +78,7 @@ namespace Program
 
         static void Divide(double num1, double num2)
         {
-            Console.WriteLine("Result: ");
+            Console.WriteLine("Result ");
             Console.WriteLine(num1 / num2);
             Console.WriteLine("Replay? (Y/N)");
             char replayQuestion = Convert.ToChar(Console.ReadLine());
